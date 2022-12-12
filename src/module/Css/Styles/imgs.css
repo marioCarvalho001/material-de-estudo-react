@@ -1,0 +1,11 @@
+.img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.imgBack{
+  width: 200px;
+  height: 200px;
+  background: url('./img/cachorro.webp');
+  background-size: cover;
+}
